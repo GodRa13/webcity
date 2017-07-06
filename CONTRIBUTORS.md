@@ -5,3 +5,4 @@ Project contributors (sorted alphabeticaly)
 * **[Maksim Lisnyak](https://github.com/lisnm)**
 * **[Olga Lisa](https://github.com/olgalisvaja)**
 * **[Sergey Tunik](https://github.com/22nick)**
+* **[Evgeniy Korotun](https://github.com/GodRa13)**
